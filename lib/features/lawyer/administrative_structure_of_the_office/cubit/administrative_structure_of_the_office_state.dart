@@ -1,0 +1,21 @@
+ class AdministrativeStructureOfTheOfficeState {}
+
+ class AdministrativeStructureOfTheOfficeInitial extends AdministrativeStructureOfTheOfficeState {}
+ class LoadingOfficeTeamDataState extends AdministrativeStructureOfTheOfficeState {}
+ class ErrorOfficeTeamDataState extends AdministrativeStructureOfTheOfficeState {}
+ class SuccessOfficeTeamDataState extends AdministrativeStructureOfTheOfficeState {}
+class SuccessSendOfficeRequestState extends AdministrativeStructureOfTheOfficeState {}
+ class ErrorSendOfficeRequestState extends AdministrativeStructureOfTheOfficeState {}
+ class LoadingSendOfficeRequestState extends AdministrativeStructureOfTheOfficeState {}
+ class SuccessSearchLawyerDataState extends AdministrativeStructureOfTheOfficeState {}
+ class ErrorSearchLawyerDataState extends AdministrativeStructureOfTheOfficeState {}
+ class LoadingSearchLawyerDataState extends AdministrativeStructureOfTheOfficeState {}
+ class SuccessDeleteLawyerFromOfficeState extends AdministrativeStructureOfTheOfficeState {}
+ class ErrorDeleteLawyerFromOfficeState extends AdministrativeStructureOfTheOfficeState {}
+ class LoadingDeleteLawyerFromOfficeState extends AdministrativeStructureOfTheOfficeState {}
+ class SuccessAddLawyerToCourtCaseRequestDataState extends AdministrativeStructureOfTheOfficeState {}
+ class ErrorAddLawyerToCourtCaseRequestDataState extends AdministrativeStructureOfTheOfficeState {}
+ class LoadingAddLawyerToCourtCaseRequestDataState extends AdministrativeStructureOfTheOfficeState {}
+ class LoadingAllLawyersState extends AdministrativeStructureOfTheOfficeState {}
+ class ErrorAllLawyersState extends AdministrativeStructureOfTheOfficeState {}
+ class SuccessAllLawyersState extends AdministrativeStructureOfTheOfficeState {}

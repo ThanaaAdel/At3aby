@@ -1,0 +1,14 @@
+abstract class CourtcaseSharedandSendState {}
+
+class CourtcaseSharedandSendInitial extends CourtcaseSharedandSendState {}
+
+class ChangeIndexState extends CourtcaseSharedandSendState {}
+class ErrorGetAllTransferCourtCasesState extends CourtcaseSharedandSendState {}
+class LoadingGetAllTransferCourtCasesState extends CourtcaseSharedandSendState {}
+class LoadedGetAllTransferCourtCasesState extends CourtcaseSharedandSendState {}
+class ErrorTransferCourtCasesState extends CourtcaseSharedandSendState {}
+class LoadingTransferCourtCasesState extends CourtcaseSharedandSendState {}
+class LoadedTransferCourtCasesState extends CourtcaseSharedandSendState {}
+class LoadingGetDetailsOfTransferById extends CourtcaseSharedandSendState {}
+class LoadedGetDetailsOfTransferById extends CourtcaseSharedandSendState {}
+class ErrorGetDetailsOfTransferById extends CourtcaseSharedandSendState {}

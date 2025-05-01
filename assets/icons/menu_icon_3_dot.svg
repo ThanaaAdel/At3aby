@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_outline_more" data-name="vuesax/outline/more" transform="translate(214 -556) rotate(90)">
+    <g id="more">
+      <path id="Vector" d="M2.75,5.5A2.75,2.75,0,1,1,5.5,2.75,2.748,2.748,0,0,1,2.75,5.5Zm0-4A1.25,1.25,0,1,0,4,2.75,1.25,1.25,0,0,0,2.75,1.5Z" transform="translate(558.25 199.25)" fill="#fff"/>
+      <path id="Vector-2" data-name="Vector" d="M2.75,5.5A2.75,2.75,0,1,1,5.5,2.75,2.748,2.748,0,0,1,2.75,5.5Zm0-4A1.25,1.25,0,1,0,4,2.75,1.25,1.25,0,0,0,2.75,1.5Z" transform="translate(572.25 199.25)" fill="#fff"/>
+      <path id="Vector-3" data-name="Vector" d="M2.75,5.5A2.75,2.75,0,1,1,5.5,2.75,2.748,2.748,0,0,1,2.75,5.5Zm0-4A1.25,1.25,0,1,0,4,2.75,1.25,1.25,0,0,0,2.75,1.5Z" transform="translate(565.25 199.25)" fill="#fff"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(556 190)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

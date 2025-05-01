@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="vuesax_outline_candle" data-name="vuesax/outline/candle" transform="translate(-300 -254)">
+    <g id="candle" transform="translate(300 254)">
+      <path id="Vector" d="M.563,6.375A.567.567,0,0,1,0,5.813V.563A.567.567,0,0,1,.563,0a.567.567,0,0,1,.563.563v5.25A.567.567,0,0,1,.563,6.375Z" transform="translate(4.313 10.688)" fill="#fff"/>
+      <path id="Vector-2" data-name="Vector" d="M.563,3.375A.567.567,0,0,1,0,2.813V.563A.567.567,0,0,1,.563,0a.567.567,0,0,1,.563.563v2.25A.567.567,0,0,1,.563,3.375Z" transform="translate(4.313 0.938)" fill="#fff"/>
+      <path id="Vector-3" data-name="Vector" d="M.563,3.375A.567.567,0,0,1,0,2.813V.563A.567.567,0,0,1,.563,0a.567.567,0,0,1,.563.563v2.25A.567.567,0,0,1,.563,3.375Z" transform="translate(12.563 13.688)" fill="#fff"/>
+      <path id="Vector-4" data-name="Vector" d="M.563,6.375A.567.567,0,0,1,0,5.813V.563A.567.567,0,0,1,.563,0a.567.567,0,0,1,.563.563v5.25A.567.567,0,0,1,.563,6.375Z" transform="translate(12.563 0.938)" fill="#fff"/>
+      <path id="Vector-5" data-name="Vector" d="M3.563,8.625h-1.5A1.9,1.9,0,0,1,0,6.563v-4.5A1.9,1.9,0,0,1,2.063,0h1.5A1.9,1.9,0,0,1,5.625,2.063v4.5A1.9,1.9,0,0,1,3.563,8.625Zm-1.5-7.5c-.668,0-.937.27-.937.938v4.5c0,.668.27.938.938.938h1.5c.668,0,.938-.27.938-.938v-4.5c0-.668-.27-.937-.937-.937Z" transform="translate(2.063 3.188)" fill="#fff"/>
+      <path id="Vector-6" data-name="Vector" d="M3.563,8.625h-1.5A1.9,1.9,0,0,1,0,6.563v-4.5A1.9,1.9,0,0,1,2.063,0h1.5A1.9,1.9,0,0,1,5.625,2.063v4.5A1.9,1.9,0,0,1,3.563,8.625Zm-1.5-7.5c-.668,0-.937.27-.937.938v4.5c0,.668.27.938.938.938h1.5c.668,0,.938-.27.938-.938v-4.5c0-.668-.27-.937-.937-.937Z" transform="translate(10.313 6.188)" fill="#fff"/>
+      <path id="Vector-7" data-name="Vector" d="M0,0H18V18H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+ class DetailsLawyerFromCustomerPartState {}
+
+ class DetailsLawyerFromCustomerPartInitial extends DetailsLawyerFromCustomerPartState {}
+class LoadedGetDetailsDataCustomer extends DetailsLawyerFromCustomerPartState {}
+ class ErrorGetDetailsDataCustomer extends DetailsLawyerFromCustomerPartState {}
+ class LoadingGetDetailsDataCustomer extends DetailsLawyerFromCustomerPartState {}

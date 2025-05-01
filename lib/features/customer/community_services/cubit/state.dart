@@ -1,0 +1,20 @@
+abstract class CommunityServicesState {}
+class CommunityServicesInitial extends CommunityServicesState {}
+class OpenContractAndDocumentSuccess extends CommunityServicesState {}
+class OpenContractAndDocumentLoaded extends CommunityServicesState {}
+class OpenContractAndDocumentProgress extends CommunityServicesState {}
+class OpenContractAndDocumentLoading extends CommunityServicesState {}
+class OpenContractAndDocumentError extends CommunityServicesState {}
+class DownloadingContractAndDocumentError extends CommunityServicesState {}
+class DownloadedContractAndDocumentError extends CommunityServicesState {}
+class ErrorGetCommunityServiceCategories extends CommunityServicesState {}
+class LoadedGetCommunityServiceCategories extends CommunityServicesState {}
+class LoadingGetCommunityServiceCategories extends CommunityServicesState {}
+class ErrorGetCommunityServiceSubCategories extends CommunityServicesState {}
+class LoadedGetCommunityServiceSubCategories extends CommunityServicesState {}
+class LoadingGetCommunityServiceSubCategories extends CommunityServicesState {}
+class ErrorGetCommunityServiceSubSubCategories extends CommunityServicesState {}
+class LoadedGetCommunityServiceSubSubCategories extends CommunityServicesState {}
+class LoadingGetCommunityServiceSubSubCategories extends CommunityServicesState {}
+class DownloadProgressContractAndDocumentError extends CommunityServicesState {}
+class CommunityServiceUpdated extends CommunityServicesState {}
